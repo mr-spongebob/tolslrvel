@@ -1,0 +1,15 @@
+nama file dll jangan di ubah jika tols tidak mau error!
+recode?boleh tmbhkn author,recode tnpa author?you ppq
+tols ini sbgian di bantu dengan ai
+
+run 
+
+git clone https://github.com/mr-spongebob/tolslrvel
+
+cd tolslrvel
+
+pip install -r requirements.txt
+
+python3 main.py
+
+taro semua list di list.txt
